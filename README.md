@@ -8,7 +8,6 @@
 
 > 请使用 skill-installer 从 GitHub 仓库 Math3666/cumcm 的 `skills/cumcm-step-review` 路径安装这个 Skill。
 
-私有仓库需要先由仓库所有者邀请队友，并确保队友电脑上的 Git 已登录有权限的 GitHub 账号。
 
 安装完成后，新开一个 Codex 任务或在下一轮调用：
 
